@@ -108,7 +108,7 @@
 /* Body */
 body {
     margin: 0;
-    background-image: url("../img/bord.jpg");
+    /* background-image: url("../img/bord.jpg"); */
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: #ffffff;
